@@ -1,6 +1,5 @@
 //
 //  AFTweet.m
-//  JunoQuest
 //
 //  Created by Austin J Fitzpatrick on 3/14/13.
 //
