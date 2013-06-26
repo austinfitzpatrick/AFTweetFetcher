@@ -57,6 +57,6 @@ The AFTweet object that is returned by calls to retrieve tweets has the followin
 * mediaURL (an `NSURL` pointing at any media attached to the tweet)
 * idNumber (an `NSString` representing the tweet's unique ID number)
 
-The full dictionary parsed from the JSON returned by twitter is also available incase one of these convenience properties doesn't meet your requirements.
+The full dictionary parsed from the JSON returned by twitter is also available in case one of these convenience properties doesn't meet your requirements.
 
 * fullDictionary (an `NSDictionary` created from the JSON returned by twitter)
